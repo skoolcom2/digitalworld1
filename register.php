@@ -1,1 +1,1 @@
-name <input name="name" type="text">
+user name <input name="name" type="text">
